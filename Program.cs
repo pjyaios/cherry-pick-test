@@ -7,6 +7,7 @@ namespace cherry_pick_test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Init commit.");
         }
     }
 }
